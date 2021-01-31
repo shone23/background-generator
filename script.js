@@ -1,1 +1,1 @@
-alert('cool');
+alert('cool all');
